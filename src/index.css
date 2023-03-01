@@ -1,0 +1,27 @@
+.btn {
+  padding: 20px 40px;
+  font-size: 20px;
+  text-transform: uppercase;
+  border: 1px solid #fff;
+  color: #000;
+  background: rgb(248, 217, 15);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+h1,
+h4,
+h2,
+p {
+  color: #fff;
+}
+.btn-light {
+  color: #fff;
+  background: transparent;
+}
+
+.btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  transition: 0.3s;
+}
